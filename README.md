@@ -18,4 +18,4 @@ The presentation slides can be [viewed at this link](https://qwilka.github.io/Py
 
 
 
-[![PyConIE2019 pflacs on YouTube](https://img.youtube.com/vi/nUStcSwv-ZQ/0.jpg")](https://youtu.be/nUStcSwv-ZQ)
+[![PyConIE2019 pflacs on YouTube](assets/youtube_screenshot.png?raw=true "Video of talk on YouTube")](https://youtu.be/nUStcSwv-ZQ)
